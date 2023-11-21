@@ -116,9 +116,11 @@ h3.section-header {
   position: relative;
   z-index: -1;
 }
+.section-btn a {
+  padding: 16px 32px;
+}
 .section-btn-left {
   display: flex;
-  padding: 16px 32px;
   justify-content: center;
   align-items: center;
   gap: 10px;
