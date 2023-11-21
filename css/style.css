@@ -58,6 +58,10 @@ img {
 .navbar a:hover {
   color: #4891FF;
 }
+.navbar .navbar-btn:hover {
+    background: #4891FF;
+    color: #fff;
+}
 a:hover {
   color: #6f81a0
 }
